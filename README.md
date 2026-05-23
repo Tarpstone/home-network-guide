@@ -1,3 +1,5 @@
+# MOVED TO: https://guides.tarpey.io/home-network
+
 # Tarpstone's Home Network Guide
 This project grew out of a desire to do two things:
 
